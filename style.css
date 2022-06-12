@@ -32,10 +32,3 @@ body {
 .square:hover {
     transition-duration: 0s;
 }
-
-.footer{
-    margin-top: 600px;
-    width: 1px;
-    padding: ;
-    display: flex;
-}
